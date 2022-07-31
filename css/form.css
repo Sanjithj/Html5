@@ -4,7 +4,7 @@ body {
     margin: 0px auto;
     padding: 2em;
 }
-label,input, button {
+label, input, button {
     font-size: 16px;
     Line-height: 1.5
 }
@@ -14,7 +14,7 @@ label {
     margin-right: 2%;
 }
 input {
-     flex: auto;
+     flex: center;
 }
 .headerContainer {
     display: flex;
