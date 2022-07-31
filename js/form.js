@@ -20,6 +20,4 @@ function validation() {
     if (!pwdRegex.test(password)) {
         alert("Invalid password. "+"Should contain upperCase, lowerCase, special char, number and length >= 8");
     }
-    
-    
 }
